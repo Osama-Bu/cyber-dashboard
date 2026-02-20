@@ -15,3 +15,8 @@ This Python tool generates common cryptographic hashes for cybersecurity learnin
 
 ## Educational Purpose
 This project is created for learning hash functions and basic security concepts.
+
+## Features
+- Generate hashes (MD5, SHA1, SHA256)
+- Identify hash type based on length
+
